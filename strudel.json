@@ -1,4 +1,4 @@
 {"_base": "https://raw.githubusercontent.com/PechenkaJun/samples/main/",
- "golosa1": ["01 golosa.wav"],
- "golosa2": ["02 golosa.wav"]
+ "golosa1": "01 golosa.wav",
+ "golosa2": "02 golosa.wav"
 }
