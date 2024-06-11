@@ -43,6 +43,20 @@
  "psd": [
   "drum_shots/PG DOLORES Snare - Slide.wav",
   "drum_shots/PG DOLORES Snare - Wesson.wav"
+ ],
+
+ "melody": [
+  "melody/Air Mazes @a.heardmusic - 117 BPM Eb Min.wav",
+  "melody/Airway Blvd @a.heardmusic - 130 BPM Ab Min.wav",
+  "melody/Allegory ln @a.heardmusic - 120 BPM Ab Min.wav",
+  "melody/Blue Boredom @a.heardmusic - 128 BPM C Min.wav",
+  "melody/Candy Coat @a.heardmusic - 128 BPM B Min.wav",
+  "melody/Colorful Paths @a.heardmusic - 116 BPM D Min.wav",
+  "melody/Dreamlandia @a.heardmusic - 135 BPM G Min.wav",
+  "melody/Luxuriant Dr @a.heardmusic - 120 BPM B Maj.wav",
+  "melody/Platinum Decanter @a.heardmusic - 120 BPM D Min.wav",
+  "melody/Purple Sundae @a.heardmusic - 155 BPM Ab Min.wav"
  ]
+ 
  
 }
