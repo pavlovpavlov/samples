@@ -1,4 +1,5 @@
 {"_base": "https://raw.githubusercontent.com/PechenkaJun/samples/main/",
+ 
  "golosa": [
   "golosa_mp3/golosa (1).mp3",
   "golosa_mp3/golosa (2).mp3",
@@ -19,5 +20,29 @@
   "golosa_mp3/golosa (17).mp3",
   "golosa_mp3/golosa (18).mp3"
  ],
- "parker": "parker/armboneLick.wav"
+ 
+ "parker": "parker/armboneLick.wav",
+ 
+ "tapes": [
+  "tapes/all we need to say is.wav",
+  "tapes/and maybe you should.wav",
+  "tapes/be happy attitudes.wav",
+  "tapes/begin by riscing.wav",
+  "tapes/do not accept defeat.wav"
+ ],
+
+ "pbd": [
+  "drum_shots/PG DOLORES Kick - Dist.wav",
+  "drum_shots/PG DOLORES Kick - Solace.wav"
+ ],
+
+ "phh": "drum_shots/PG DOLORES Hihat - Easy.wav",
+
+ "poh": "drum_shots/PG DOLORES Open Hihat - Incognito - 165 BPM.wav",
+
+ "psd": [
+  "drum_shots/PG DOLORES Snare - Slide.wav",
+  "drum_shots/PG DOLORES Snare - Wesson.wav
+ ]
+ 
 }
