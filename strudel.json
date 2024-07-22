@@ -57,7 +57,25 @@
   "melody/Purple Sundae @a.heardmusic - 155 BPM Ab Min.wav"
  ],
 
+ "phonk": [
+  "phonk/vocals/AST_MP_85_vocal_chops_loop_fearless_alt_F#.wav",
+  "phonk/vocals/Accapella_Vocal_A#m_130bpm.wav",
+  "phonk/vocals/Accapella_Vocals_G#m_144bpm.wav",
+  "phonk/vocals/BNG_PHO_VocalSample_130BPM_Em_Yeno.wav",
+  "phonk/vocals/Lead_05_Dm_160bpm.wav",
+  "phonk/vocals/_Engine_Vocal_Chop_120BPM_Bm.wav",
+  "phonk/vocals/_Nitro_Vocal_Chop_130BPM_Em.wav",
+  "phonk/vocals/_Petrol_Vocal_Chop_120BPM_Gm.wav",
+  "phonk/vocals/_Radiator_Vocal_Chop_110BPM_E.wav",
+  "phonk/vocals/_Speed_Vocal_Chop_120BPM_Em.wav"
+ ],
+
+"pdrums": [
+ "phonk/drums/AST_MP_125_drum_loop_claws.wav",
+ "phonk/drums/AST_MP_85_drum_loop_crime_G.wav",
+ "phonk/drums/AST_MP_85_drum_loop_dive_in_atmospheres_F.wav",
+ "phonk/drums/BNG_PHO_DrumLoop_155BPM_Dm_Mane.wav",
+ "phonk/drums/Phonk_Kit_Energetic_Full_Drum_Loop_140BPM.wav",
  ]
 
- 
 }
