@@ -21,7 +21,6 @@
   "golosa_mp3/golosa (18).mp3"
  ],
  
- "parker": "parker/armboneLick.wav",
  
  "tapes": [
   "tapes/all we need to say is.wav",
@@ -58,21 +57,7 @@
   "melody/Purple Sundae @a.heardmusic - 155 BPM Ab Min.wav"
  ],
 
- "slav": [
-  "slav/msg1184828074-72213.mp3"
- ],
-
- "luch": [
-  "luch/01 msg1808883396-72134.mp3",
-  "luch/02 msg1808883396-72134.mp3",
-  "luch/03 msg1808883396-72134.mp3",
-  "luch/04 msg1808883396-72134.mp3",
-  "luch/05 msg1808883396-72134.mp3",
-  "luch/06 msg1808883396-72134.mp3",
-  "luch/07 msg1808883396-72134.mp3",
-  "luch/08 msg1808883396-72134.mp3",
-  "luch/09 msg1808883396-72134.mp3",
-  "luch/10 msg1808883396-72134.mp3"
  ]
+
  
 }
