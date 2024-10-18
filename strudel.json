@@ -76,6 +76,13 @@
  "phonk/drums/AST_MP_85_drum_loop_dive_in_atmospheres_F.wav",
  "phonk/drums/BNG_PHO_DrumLoop_155BPM_Dm_Mane.wav",
  "phonk/drums/Phonk_Kit_Energetic_Full_Drum_Loop_140BPM.wav"
- ]
+ ],
+
+ "ambient120": [
+ "ambient120/120_F#m7_CalmPad_TL.wav",
+ "ambient120/120_F#m7_CavePad_TL.wav",
+ "ambient120/120_F#m7_DarkBellPad_TL.wav",
+ "ambient120/120_F#m7_DreamsPad_TL.wav",
+ "ambient120/120_F#m7_ShimmerPads_TL.wav"
 
 }
