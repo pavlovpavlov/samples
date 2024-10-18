@@ -79,10 +79,10 @@
  ],
 
  "ambient": [
- "ambient120/120_F#m7_CalmPad_TL.wav",
- "ambient120/120_F#m7_CavePad_TL.wav",
- "ambient120/120_F#m7_DarkBellPad_TL.wav",
- "ambient120/120_F#m7_DreamsPad_TL.wav",
-"ambient120/120_F#m7_ShimmerPads_TL.wav"
+ "ambient/120_F#m7_CalmPad_TL.wav",
+ "ambient/120_F#m7_CavePad_TL.wav",
+ "ambient/120_F#m7_DarkBellPad_TL.wav",
+ "ambient/120_F#m7_DreamsPad_TL.wav",
+"ambient/120_F#m7_ShimmerPads_TL.wav"
  ]
 }
