@@ -84,5 +84,32 @@
  "ambient/120_F#m7_DarkBellPad_TL.wav",
  "ambient/120_F#m7_DreamsPad_TL.wav",
 "ambient/120_F#m7_ShimmerPads_TL.wav"
- ]
+ ],
+
+"pfx": [
+"fx/aat_fx_loop_acher_128.wav",
+"fx/aat_fx_loop_bubbler_128.wav",
+"fx/aat_fx_loop_cleanup_128.wav",
+"fx/aat_fx_loop_greed_128.wav",
+"fx/aat_fx_loop_machine_128.wav",
+"fx/aat_fx_loop_machinist_128.wav",
+"fx/aat_fx_loop_metal_128.wav",
+"fx/aat_fx_loop_scrape_128.wav",
+"fx/aat_fx_loop_tallic_128.wav",
+"fx/aat_fx_loop_zapper_128.wav"
+],
+
+"texture": [
+"textures/aat_texture_loop_beads_128.wav",
+"textures/aat_texture_loop_buzzy_128.wav",
+"textures/aat_texture_loop_essence_128.wav",
+"textures/aat_texture_loop_greyscale_128.wav",
+"textures/aat_texture_loop_orch_128.wav",
+"textures/aat_texture_loop_pact_128.wav",
+"textures/aat_texture_loop_pitcher_128.wav",
+"textures/aat_texture_loop_ramble_128.wav",
+"textures/aat_texture_loop_scrape_128.wav",
+"textures/aat_texture_loop_tuner_128.wav"
+]
+
 }
