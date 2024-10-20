@@ -110,6 +110,15 @@
 "textures/aat_texture_loop_ramble_128.wav",
 "textures/aat_texture_loop_scrape_128.wav",
 "textures/aat_texture_loop_tuner_128.wav"
-]
+],
 
+"pbass":[
+"pbass/AvailableGround_C_Bass.wav",
+"pbass/Freestyle_C_Bass.wav"
+],
+
+"drone":[
+"drone/SubtleSimulacrum_D_Drone.wav",
+"drone/Unmangle_C_Drone.wav"
+]
 }
